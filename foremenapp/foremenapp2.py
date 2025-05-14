@@ -1,7 +1,4 @@
-# --- Database Connection ---
-
-# -*- coding: utf-8 -*-
-"""
+# --- Da
 Streamlit application for Foremen Choice Digital Records Manager.
 Connects to a MySQL database.
 """
