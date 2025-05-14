@@ -1,4 +1,4 @@
-how to use guide
+
 use anaconda environment with required libraries such as mysqlclient,streamlit,python
 setup mysql dataschema and store the creditials in a secrets.toml file in .streamlit folder 
 on sucessfull establishment of schema in streamlit do check get_db_connection function in foremen.py
